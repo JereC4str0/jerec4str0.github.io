@@ -16,7 +16,7 @@ timezone: America/Buenos_Aires
 
 title: Pwned & Proud # the main title
 
-tagline: Mi viaje en la ciberseguridad para que puedas juzgar tranqui # it will display as the subtitle
+tagline: Mi viaje en la ciberseguridad, si te sirve joya, sino andá paía # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   guía para dominar la ciberseguridad ofensiva. Explora vulnerabilidades, técnicas de explotación, seguridad de redes y hacking ético. Contenido para aprender a proteger y a comprometer sistemas."
