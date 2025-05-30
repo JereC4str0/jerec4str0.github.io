@@ -291,7 +291,7 @@ Esto nos devuelve todos los usuarios y sus contraseñas hasheadas :)
 
 Necesitamos la contraseña de quien en este caso podria aprobar nuestro rembolso, este usuario es ***pbaudouin*** asi que vamos a ver si podemos crackear el hash de su contraseña.
 
-Esto se puede hacer de forma local o online, en mi caso voy a usar el metodo online usando [hashes](hashes.com)
+Esto se puede hacer de forma local o online, en mi caso voy a usar el metodo online usando "hashes.com"
 
 
 ![](/assets/imgs/my_expense_31.png)
